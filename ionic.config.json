@@ -1,0 +1,8 @@
+{
+  "name": "aduanMobile",
+  "app_id": "33474e8e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
